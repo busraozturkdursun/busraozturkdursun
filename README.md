@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/busraozturkdursun/busraozturkdursun/blob/main/img/Github%20Banner.jpg)
+
 
 <div align="center">
  <a href="https://github.com/busraozturkdursun">
